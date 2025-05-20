@@ -6,9 +6,9 @@ Project Overview
 In this analysis, cruise-related data was examined to uncover insights on:
 
 * Booking Patterns: Analysis of booking frequency, lead times, and cancellations.
-*Customer Demographics: Exploration of passenger data including age groups, geographical distribution, and customer preferences.
-*Seasonal Trends: Visualization of peak and off-peak seasons, occupancy rates, and booking trends.
-*Revenue Distribution: Assessment of revenue sources, pricing structures, and financial performance across different cruise offerings.
+* Customer Demographics: Exploration of passenger data including age groups, geographical distribution, and customer preferences.
+* Seasonal Trends: Visualization of peak and off-peak seasons, occupancy rates, and booking trends.
+* Revenue Distribution: Assessment of revenue sources, pricing structures, and financial performance across different cruise offerings.
 
 Tools and Technologies
 * Tableau – Used for interactive dashboards and detailed data visualizations.
@@ -26,10 +26,11 @@ Skills Demonstrated
 * Cruise Industry Domain Knowledge
 
 How to View the Project
-Download or clone this repository.
-Open the Tableau files (.twbx) with Tableau Desktop or Tableau Public.
+* Download or clone this repository.
+* Open the Tableau files (.twbx) with Tableau Desktop or Tableau Public.
 
 Contact
 For more information or collaboration opportunities, please reach out:
 Email: Noyaba123@gmail.com
+
 LinkedIn: Noya Bayazi
