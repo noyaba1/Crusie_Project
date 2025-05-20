@@ -31,6 +31,7 @@ How to View the Project
 
 Contact
 For more information or collaboration opportunities, please reach out:
+
 Email: Noyaba123@gmail.com
 
 LinkedIn: Noya Bayazi
